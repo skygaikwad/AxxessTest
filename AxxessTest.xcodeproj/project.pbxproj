@@ -75,6 +75,7 @@
 		1802412C24BA191300EB32EB /* ContentModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentModel.swift; sourceTree = "<group>"; };
 		1802412E24BA195300EB32EB /* APIManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
 		1802413024BA1A1500EB32EB /* APIError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIError.swift; sourceTree = "<group>"; };
+		1804E52624BB7FB3004AB86E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		1832413A24BB2AA70059081A /* ContentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewController.swift; sourceTree = "<group>"; };
 		1832413C24BB2E800059081A /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		1832413F24BB2EE70059081A /* UILabel+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UILabel+Ext.swift"; sourceTree = "<group>"; };
@@ -121,6 +122,7 @@
 		180240DD24BA005200EB32EB = {
 			isa = PBXGroup;
 			children = (
+				1804E52624BB7FB3004AB86E /* README.md */,
 				180240E824BA005200EB32EB /* AxxessTest */,
 				180240FF24BA005500EB32EB /* AxxessTestTests */,
 				180240E724BA005200EB32EB /* Products */,
