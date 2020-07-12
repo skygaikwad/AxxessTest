@@ -11,6 +11,13 @@ sort and display items based on their “type”
 select an item to see it full screen.
 store data in device, and to view while offline
 
+
+## Installation
+
+- cd path 
+- Pod Install
+For simplicity I have pushed all the code with pod on repo so that you dont have to install if you wanted to run the code.
+
 ### Project Contains Lib
 -  Moya for Networking
 - SDWebImage for Async Image loading
